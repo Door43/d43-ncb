@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncb:home|Door43 (ncb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncb|d43-ncb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncb/archive/master.zip|d43-ncb.zip]]
+
+**Recent Changes**
+{{changes>ns = ncb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncb|Ethnologue data]]
+
